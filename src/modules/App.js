@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import './scss/App.scss';
+import '../assets/scss/App.scss';
 
 import Navbar from './navbar/Navbar';
 import Home from './home/Home';
-
+import Skills from './skills/Skills'
 class App extends Component {
   render() {
     return (
@@ -11,6 +11,7 @@ class App extends Component {
         <div className="App-body">
           <Navbar />
           <Home />
+          <Skills />
         </div>
       </div>
     );
