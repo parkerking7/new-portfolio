@@ -4,10 +4,11 @@
   text-align: left;
 
 }
-
-
 .App-body {
-  background-color: $primary-color;
   min-height: 100vh;
   font-size: calc(10px + 2vmin);
+}
+
+.full-page {
+	height:100vh;
 }

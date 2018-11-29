@@ -1,5 +1,6 @@
 import React from 'react';
 import '../../assets/scss/Navbar.scss';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const Navbar = props => {
   return (
@@ -15,12 +16,12 @@ const Navbar = props => {
         </div>
         <div className="navbar-collapse collapse">
             <ul className="nav navbar-nav" id="main-menu">
-                <li><a href="#page-home">Home</a></li>
-                <li><a href="#page-skills">Skills</a></li>
-                <li><a href="#page-resume">Resume</a></li>
-                <li><a href="#page-education">Education</a></li>
-                <li><a href="#page-profile">Me</a></li>
-                <li><a href="#page-contact">Contact</a></li>
+                <li><AnchorLink href="#page-home">Home</AnchorLink></li>
+                <li><AnchorLink href="#page-skills">Skills</AnchorLink></li>
+                <li><AnchorLink href="#page-resume">Resume</AnchorLink></li>
+                <li><AnchorLink href="#page-education">Education</AnchorLink></li>
+                <li><AnchorLink href="#page-profile">Me</AnchorLink></li>
+                <li><AnchorLink href="#page-contact">Contact</AnchorLink></li>
             </ul>
         </div>
       </div>

@@ -20,8 +20,8 @@ const skill4 = {
 	size:'col-md-3'
 };
 const skill5 = {
-	imgUrl: 'sass-logo.png',
-	name:"Sass",
+	imgUrl: 'react-logo.png',
+	name:"React",
 	size:'col-md-3'
 };
 const skill6 = {

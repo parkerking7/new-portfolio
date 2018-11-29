@@ -1,5 +1,6 @@
 import React from 'react';
 import '../../assets/scss/Home.scss';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const Home = props => {
     return (
@@ -19,6 +20,7 @@ const Home = props => {
                 <a href="https://www.linkedin.com/in/parkerking7" title="Linkedin" className="btn btn-round btn-clear btn-linkedin"
                    target="_blank"><i className="fa fa-linkedin-square"></i></a>
             </div>
+            <AnchorLink href="#page-skills" class="btn btn-default hire-me">Continue to Site</AnchorLink>
         </div>
     </div>
 </section>
