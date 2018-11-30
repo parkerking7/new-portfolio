@@ -4,7 +4,7 @@ import starryBackground from '../../assets/images/starry-background.JPG'
 const Paralax = props => {
   return (
     <div>
-    <img className="star-background" src={starryBackground} />
+    <img className="star-background" src={starryBackground} alt='' />
     <div className="star-overlay"></div>
     </div>
   );

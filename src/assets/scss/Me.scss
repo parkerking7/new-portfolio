@@ -1,0 +1,24 @@
+#page-profile {
+    padding: 75px 0;
+    background: #fff;
+    text-align: center;
+	.spacer {
+		margin-bottom:5vh;
+	}
+    .profile {
+        border: 2px solid #333;
+        width: 225px;
+        height: 225px;
+        margin:0 auto 5vh;
+		@media screen and (min-width: 991px) {
+            margin: 0 20px 20px 0;
+        }
+        img {
+            max-width: 100%;
+        }
+    }
+
+    p {
+        font-size: 16px;
+    }
+}

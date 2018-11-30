@@ -4,6 +4,9 @@ import Paralax from './paralax/Paralax';
 import Navbar from './navbar/Navbar';
 import Home from './home/Home';
 import Skills from './skills/Skills';
+import Resume from './resume/Resume';
+import Me from './me/Me';
+import Contact from './contact/Contact';
 
 class App extends Component {
   render() {
@@ -16,6 +19,9 @@ class App extends Component {
             <Home />
           </div>
           <Skills />
+          <Resume />
+          <Me />
+          <Contact />
         </div>
       </div>
     );

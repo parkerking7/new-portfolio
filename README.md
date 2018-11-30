@@ -6,6 +6,13 @@ After Installing dependencies run NPM start to build the app.
 
 ## Change Log
 
+Version 1.0.3
+
++ Added the Resume module, this includes adding a PDF version of my resume
++ Added the Me module, this includes a brief summary of who I am, and a picture
++ Added the Contact module with quick contact information for me
+
+
 Version 1.0.2
 
 + Added Paralax module for home section

@@ -5,11 +5,10 @@ class SingleSkill extends Component {
         const skillsList = this.props.skill;
         let rowContent = [];
         let content = [];
-        console.log(skillsList)
         skillsList.forEach((skill, i) => {
             if ((i + 1) % 4 === 0 || (i + 1) === skillsList.length) {
                 content.push(
-                    <div className="row">
+                    <div className="row" key={i}>
                     		{[rowContent]}
         					<div className={`${skillsList[i].size}`} key={i}>
             					<img  alt={skillsList[i].name} src={require(`../../assets/images/${skillsList[i].imgUrl}`)} className="skill-set img-responsive" />

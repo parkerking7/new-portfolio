@@ -1,0 +1,33 @@
+#page-contact {
+    padding: 15px 0;
+    background: #3498db;
+    color: #fff;
+
+    .section-header h2 {
+        color: #fff;
+        text-align: center;
+    }
+
+    .contact-info {
+        p {
+            font-size: 16px;
+            text-align: center;
+        }
+
+        a {
+            color: #fff;
+        }
+    }
+
+    .social-icons {
+        text-align: center;
+
+        .btn-instagram:hover {
+            color: #BAB1A8;
+        }
+
+        .btn-linkedin:hover {
+            color: #015786;
+        }
+    }
+}

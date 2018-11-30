@@ -19,7 +19,6 @@ const Navbar = props => {
                 <li><AnchorLink href="#page-home">Home</AnchorLink></li>
                 <li><AnchorLink href="#page-skills">Skills</AnchorLink></li>
                 <li><AnchorLink href="#page-resume">Resume</AnchorLink></li>
-                <li><AnchorLink href="#page-education">Education</AnchorLink></li>
                 <li><AnchorLink href="#page-profile">Me</AnchorLink></li>
                 <li><AnchorLink href="#page-contact">Contact</AnchorLink></li>
             </ul>
