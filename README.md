@@ -1,10 +1,15 @@
 # Portfolio Site
-- Version 1.0.2
+- Version 1.0.4
 
 To initialize project run npm install
 After Installing dependencies run NPM start to build the app.
 
 ## Change Log
+
+Version 1.0.4
+
++ Updated the location of the resume pdf
+
 
 Version 1.0.3
 

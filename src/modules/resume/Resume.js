@@ -1,6 +1,5 @@
 import React from 'react';
 import '../../assets/scss/Resume.scss';
-import fullResume from '../../assets/parkerKingResume.pdf';
 
 const Resume = props => {
   return (
@@ -12,7 +11,7 @@ const Resume = props => {
             	<div className="spacer"></div>
         	</header>
         	<div className="button-div">
-        		<a href={fullResume} download className="btn btn-default hire-me">Download Resume</a>
+        		<a href={require('../../assets/files/parkerKingResume.pdf')} download="parkerKingResume" className="btn btn-default hire-me">Download Resume</a>
         	</div>
         </div>
 	</section>
