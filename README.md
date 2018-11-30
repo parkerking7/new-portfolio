@@ -1,10 +1,15 @@
 # Portfolio Site
-- Version 1.0.4
+- Version 1.0.5
 
 To initialize project run npm install
 After Installing dependencies run NPM start to build the app.
 
 ## Change Log
+
+Version 1.0.5 
+
++ Minified the size of some of the large images
+
 
 Version 1.0.4
 
