@@ -8,7 +8,7 @@ const Me = props => {
     <section id="page-profile" className="page-profile">
     <div className="container">
         <header className="section-header">
-            <h2 className="section-title">Me</h2>
+            <h2 className="section-title">About Me</h2>
 
             <div className="spacer"></div>
             
@@ -18,7 +18,7 @@ const Me = props => {
                 <div className="profile"><img src={selfPicture} alt="profile"/></div>
             </div>
             <div className="col-md-9">
-                <p>I have always been interested in the idea of programmying but I hadn't started looking at it as a career option until after I'd finished highschool.</p>
+                <p>I have always been interested in the idea of programming but I hadn't started looking at it as a career option until after I'd finished highschool.</p>
 
                 <p>I had decided to jump on the oportunity that I had seen with V school, a 600 hour immersive JavaScript course. Through this school I realized that programming is something that I'm passionate about and I really enjoy the whole process of creating something and seeing it in a production build!</p>
 

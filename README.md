@@ -1,10 +1,18 @@
 # Portfolio Site
-- Version 1.0.5
+- Version 1.0.6
 
 To initialize project run npm install
 After Installing dependencies run NPM start to build the app.
 
 ## Change Log
+
+Version 1.0.6
+
++ Updated Right Margin on the final social link
++ Uploaded updated resume
++ Added left align to text in "about me" for mobile versions
++ Updated name of "me" section to "about me"
+
 
 Version 1.0.5 
 

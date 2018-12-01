@@ -133,8 +133,10 @@
     .btn-github:hover {
         color: #333;
     }
-
-    .btn-linkedin:hover {
-        color: #015786;
+    .btn-linkedin {
+        margin-right:0px;
+        &:hover {
+            color: #015786;
+        }
     }
 }
