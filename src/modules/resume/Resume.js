@@ -11,7 +11,7 @@ const Resume = props => {
             	<div className="spacer"></div>
         	</header>
         	<div className="button-div">
-        		<a href={require('../../assets/files/parkerKingResume.pdf')} download="parkerKingResume" className="btn btn-default hire-me">Download Resume</a>
+        		<a href={require('../../assets/files/Parker_King_Resume.pdf')} download="Parker_King_Resume" className="btn btn-default hire-me">Download Resume</a>
         	</div>
         </div>
 	</section>
