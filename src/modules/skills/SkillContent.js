@@ -1,22 +1,23 @@
 const skill1 = {
-	imgUrl: 'html5-logo.png',
-	name:"HTML 5",
+	imgUrl: 'ruby-logo.png',
+	name:"Ruby",
 	size:'col-md-3'
+	
 };
 const skill2 = {
-	imgUrl: 'css3-logo.png',
-	name:"CSS 3",
+	imgUrl: 'rails-logo.png',
+	name:"Rails",
 	size:'col-md-3'
 };
 const skill3 = {
-	imgUrl: 'javascript-logo.png',
-	name:"Javascript",
+	imgUrl: 'SQL-logo.png',
+	name:"SQL",
 	size:'col-md-3'
 };
 
 const skill4 = {
-	imgUrl: 'SQL-logo.png',
-	name:"SQL",
+	imgUrl: 'mongodb-logo.png',
+	name:"mongoDB",
 	size:'col-md-3'
 };
 const skill5 = {
@@ -25,18 +26,18 @@ const skill5 = {
 	size:'col-md-3'
 };
 const skill6 = {
-	imgUrl: 'grunt-logo.png',
-	name:"Grunt",
+	imgUrl: 'html5-logo.png',
+	name:"HTML 5",
 	size:'col-md-3'
 };
 const skill7 = {
-	imgUrl: 'php-logo.png',
-	name:"PHP",
+	imgUrl: 'css3-logo.png',
+	name:"CSS 3",
 	size:'col-md-3'
 };
 const skill8 = {
-	imgUrl: 'ubuntu-logo.png',
-	name:"Ubuntu/Linux",
+	imgUrl: 'javascript-logo.png',
+	name:"Javascript",
 	size:'col-md-3'
 };
 const skill9 = {

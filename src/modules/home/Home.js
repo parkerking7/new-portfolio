@@ -10,7 +10,7 @@ const Home = props => {
             <header className="centered">
                 <h1>Parker King</h1>
 
-                <p>Web Developer</p>
+                <p>Full Stack Web Developer</p>
             </header>
             <div className="social-icons">
                 <a href="https://github.com/parkerking7" title="GitHub" className="btn btn-round btn-clear btn-github" target="_blank" rel="noopener noreferrer"><i
